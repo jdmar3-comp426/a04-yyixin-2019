@@ -1,7 +1,6 @@
 {
   "name": "a04",
   "version": "1.0.0",
-  "type": "module",
   "description": "An API to a user database.",
   "main": " server.js",
   "scripts": {
